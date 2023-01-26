@@ -54,4 +54,4 @@ membuat model machine learning menggunakan library python pycaret untuk analisa 
 file dapat diakses pada : https://github.com/tananugrah/Credit_Card_model/blob/main/model_customer_CC.ipynb
 
 
-
+source : https://pycaret.gitbook.io/docs/get-started/quickstart
